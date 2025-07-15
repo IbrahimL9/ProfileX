@@ -1,0 +1,18 @@
+{
+  "identite": {"nom": "Imane B.", "titre": "Étudiante M2 IA"},
+  "competences": {
+    "techniques": ["Python", "PyTorch", "SQL"],
+    "soft": ["autonomie", "curiosité"]
+  },
+  "projets": [
+    {
+      "titre": "Chatbot médical",
+      "techs": ["Transformers", "FastAPI"],
+      "resume": "Triage médical automatique."
+    }
+  ],
+  "formations": [
+    {"annee": "2025", "diplome": "M2 IA – Paris-Saclay"}
+  ],
+  "objectif": "Stage 6 mois ingénieur IA"
+}
